@@ -5,8 +5,8 @@ function CompanyHeader() {
 
             <div>
                 <h1>ARTHADISHA</h1>
-                <p>IT SERVICES &amp; Supplies </p>
-                <p>Nashik, Maharashtra, India </p>
+                <p>IT SERVICES &amp; Supplies</p>
+                <p>Nashik, Maharashtra, India</p>
             </div>
         </header>
     );
